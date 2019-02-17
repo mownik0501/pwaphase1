@@ -1,0 +1,49 @@
+{
+	"profile": {
+		"img": "boll.png",
+		"name": "mounika",
+		"roll": "18A35A0501",
+		"place": "pithapuram",
+		"des":"student"
+	},
+	"carrier": {
+		"info": "i am studying btech in pragati engineering college"
+	},
+	"education": [{
+			"sno": "1",
+			"degree": "pursuing btech",
+			"Institute": "pragati",
+			"per": "9.18",
+			"yop": "2021"
+		},
+		{
+			"sno": "2",
+			"degree": "DIPLOMA",
+			"Institute": "APT",
+			"per": "85",
+			"yop": "2018"
+		},
+		{
+			"sno": "3",
+			"degree": "ssc",
+			"Institute": "Blue Star",
+			"per": "9.0",
+			"yop": "2015"
+		}
+	],
+	"languages": [
+		{
+			"lang": "english"
+		},
+		{
+			"lang": "telugu"
+		},
+		{
+			"lang": "hindi"
+		}
+	]
+
+
+
+
+}
